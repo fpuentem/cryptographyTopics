@@ -1,2 +1,2 @@
 # cryptographyTopics
-Python scripts of Hands-on Cryptography with Python by Samuel Bowne
+Since I watched the movie Imitation Game(2014) and read some parts of The Code Book, I got interested in cryptography. However, I haven't tried to code anything, I just read some papers for general knowledge. Well, some months ago I met a new friend, he works in cryptographic systems. Hanging out with him, the curiosity about cryptography come back and I decided to code a little bit.  In a brief search, I found a book(Hands-on Cryptography with Python by Samuel Bowne) that covers my first steps in cryptography with examples in python. 
