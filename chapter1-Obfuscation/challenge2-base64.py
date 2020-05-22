@@ -21,7 +21,12 @@ msg_decode = base64.b64decode(msg_encode)
 print("encode message: {}".format(msg_encode))
 print("decode message: {}".format(msg_decode))
 
-# Decode message, encoded several times 'VWtkc2EwbEliSFprVTJeFl6SlZaMWxUUW50aU1qbDNVSGM5UFFvPQo='
+# Decode message, encoded several times 
+# I can't decode the message of challenge, maybe It has a error.
+# I am not so sure about that, but I tested with other message 
+# and It worked fine.
+
+# 'VWtkc2EwbEliSFprVTJeFl6SlZaMWxUUW50aU1qbDNVSGM5UFFvPQo='
 n = 10
 msg_encode = 'UVVKRFJBPT0=' #'VWtkc2EwbEliSFprVTJeFl6SlZaMWxUUW5OaU1qbDNVSGM5UFFvP'
 print(type(msg_encode))
